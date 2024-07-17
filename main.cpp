@@ -68,7 +68,7 @@ int main() {
         "/            /            /       /       ",
         "/ / / /      /          / / /     / / / / ",
         "                                          ",
-        "               EPIC PRO APP               ",
+        "                   EPIC                   ",
         "..............................................................",
         ".                 Welcome to EPIC PRO App ^_^                .",
         ".      Hope you have a wonderful shopping experience!!!      .",
